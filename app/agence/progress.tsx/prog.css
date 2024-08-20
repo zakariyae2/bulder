@@ -1,0 +1,52 @@
+.containerr {
+    background-color: #003366;
+    height: 850px;
+  }
+  .cont {
+    display: flex;
+    margin-top: 70px;
+  }
+  .contactButton {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #1e90ff;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .contactButton:hover {
+    background-color: #1c86ee;
+  }  
+  .proimage {
+    width: 700px;
+    height: 650px;
+    background-color: #412B2B;
+    margin-left: 100px;
+  }
+  .number {
+    width: 60px;     /* Width of the circle */
+  height: 60px;    /* Height of the circle */
+  background-color: #004283; /* Background color of the circle */
+  border-radius: 50%; /* Makes the div a circle */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+  text-align: center; /* Centers text horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .line {
+    width: 10px;
+    height: 103px;
+    background-color: #004283;
+    position: absolute;
+    margin-top: 142px;
+  }
+  
